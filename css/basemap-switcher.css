@@ -1,0 +1,7 @@
+/**
+ * Basemap Switcher Styles
+ * Note: Main styles are in ui-improvements.css
+ * This file is kept for backwards compatibility
+ */
+
+@import url('./ui-improvements.css');
